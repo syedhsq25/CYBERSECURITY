@@ -17,4 +17,5 @@ Learning and understanding Cybersecurity with tools.
    >** For stopping splunk forwarder ** : net stop splunkforwarder
    >** For changing the username and password ** : splunk.exe add forward-server 192.168.0.103:10514 -auth admin:password
    >** For checking if the port is listening ** : netstat -an | findstr 9997, anyport number you use.
-6. Generated Dashboard with the outputs as follows. <img width="1288" height="934" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/9e3e776c-fcdd-4979-b34a-9553232b5335" />
+6. Generated Dashboard with the outputs as follows. <img width="468" height="760" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/a22db1a1-e133-4840-9610-444ae074d2b5" />
+
